@@ -1,0 +1,2 @@
+# Mindre
+Fast wordlist compression
