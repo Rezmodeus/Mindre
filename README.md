@@ -1,2 +1,2 @@
 # Mindre
-Fast wordlist compression
+Small and efficient wordlist compression.
